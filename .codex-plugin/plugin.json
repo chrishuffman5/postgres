@@ -1,0 +1,37 @@
+{
+  "name": "postgres",
+  "version": "0.1.0",
+  "description": "Dedicated PostgreSQL expert plugin covering operations, monitoring, replication and high availability, engineering, infrastructure, cloud platforms, and security across self-managed PostgreSQL, managed cloud services, and common extensions.",
+  "author": {
+    "name": "Christopher Huffman",
+    "email": "chrishuffman85@gmail.com"
+  },
+  "homepage": "https://github.com/chrishuffman5/postgres",
+  "repository": "https://github.com/chrishuffman5/postgres",
+  "license": "MIT",
+  "keywords": [
+    "postgres",
+    "postgresql",
+    "sql",
+    "dba",
+    "database-administration",
+    "replication",
+    "high-availability",
+    "monitoring",
+    "performance-tuning",
+    "security",
+    "backup-recovery"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Postgres",
+    "shortDescription": "Expert help for PostgreSQL operations, tuning, HA, cloud, and security.",
+    "longDescription": "Postgres provides a routed set of PostgreSQL skills for production database administration, performance diagnostics, SQL and index engineering, replication and high availability, infrastructure, managed cloud platforms, and security hardening.",
+    "developerName": "Christopher Huffman",
+    "category": "Productivity",
+    "capabilities": [
+      "skills"
+    ],
+    "defaultPrompt": "Help me administer, tune, secure, or troubleshoot PostgreSQL."
+  }
+}

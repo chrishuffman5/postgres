@@ -1,0 +1,20 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# Local Codex / Claude state
+.codex/
+.claude/
+.in_use/
+
+# PostgreSQL tooling output
+*.dump
+*.backup
+*.sql.gz
+*.wal
+pgdata/
+postgresql.auto.conf

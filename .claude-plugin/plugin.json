@@ -1,0 +1,25 @@
+{
+  "name": "postgres",
+  "description": "Dedicated PostgreSQL expert plugin covering the full scope of database management: operations, monitoring, replication and high availability, engineering, infrastructure, cloud offerings, and security/authentication across self-managed PostgreSQL and managed cloud platforms.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Christopher Huffman",
+    "email": "chrishuffman85@gmail.com"
+  },
+  "homepage": "https://github.com/chrishuffman5/postgres",
+  "repository": "https://github.com/chrishuffman5/postgres",
+  "license": "MIT",
+  "keywords": [
+    "postgres",
+    "postgresql",
+    "sql",
+    "dba",
+    "database-administration",
+    "replication",
+    "high-availability",
+    "monitoring",
+    "performance-tuning",
+    "security",
+    "backup-recovery"
+  ]
+}
