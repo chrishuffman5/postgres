@@ -14,3 +14,14 @@ Postgres is a Codex plugin and skill collection for PostgreSQL database work. It
 - `postgres-security` - authentication, authorization, SSL/TLS, RLS, auditing, encryption, and hardening.
 
 The SQL scripts are read-only diagnostics unless a filename or comments explicitly say otherwise.
+
+## Reference Material
+
+The top-level `postgres` router includes imported material from the `domain-expert` PostgreSQL section:
+
+- architecture internals
+- diagnostics and `pg_stat_*` usage
+- best practices for configuration, backup, vacuum, and security
+- PostgreSQL 14, 15, 16, 17, and 18 feature notes
+
+The router also includes discovery scripts under `skills/postgres/scripts/` for catalog, settings, extensions, statistics, runtime, maintenance, and replication inventory.
