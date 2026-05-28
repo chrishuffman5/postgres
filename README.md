@@ -17,7 +17,7 @@ The SQL scripts are read-only diagnostics unless a filename or comments explicit
 
 ## Reference Material
 
-The top-level `postgres` router includes imported material from the `domain-expert` PostgreSQL section:
+The top-level `postgres` router includes imported material from the [`domain-expert`](https://github.com/chrishuffman5/domain-expert) PostgreSQL section:
 
 - architecture internals
 - diagnostics and `pg_stat_*` usage
